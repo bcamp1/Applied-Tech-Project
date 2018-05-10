@@ -54,7 +54,7 @@ GRASS = 2
 FOREST = 3
 MOUNTAIN = 4
 
-COLORS = [(46, 164, 223), (180,160,140), (82, 127, 25), (53, 76, 25), (230, 230, 230)]
+COLORS = [(0, 119, 190), (180,160,140), (82, 127, 25), (53, 76, 25), (230, 230, 230)]
 LABELS = ["Water", "Sand", "Grass", "Forest", "Mountain"]
 
 SelectImage = pygame.image.load("img/Cursor2.png")
