@@ -297,6 +297,7 @@ def OnScreenRender():
                 if menuPos != -1:
                     ind = doubleToSingle(focusX, focusY)
                     land[ind].buildingIndex = menuPos
+                    clicked = False
 
 
 init()
